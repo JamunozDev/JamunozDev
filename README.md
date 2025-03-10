@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 Desarrollador de aplicaciones Web con más de 25 años de experiencia en desarrollo de aplicaciones en el sector privado y en distintos ámbitos de la Administración Pública.
 Especializado en el desarrollo de aplicaciones Java, Spring boot y Thymeleaf con seguridad, firma electrónica, certificados digitales y conexiones a APIS externas.
 
-<h3>CONOCIMIENTOS TÉCNICOS</h3>h3>
+<h3>CONOCIMIENTOS TÉCNICOS</h3>
 Tecnologías, lenguajes y herramientas: Java, Python, Kotlin, C#, J2EE, Spring Framework , Hibernate , Thymeleaf, SWT, Axis, XFire, CXF, iText, EJB, JDBC, XML, XSLT, HTML, DTD, JQuery, JavaScript, JSP, ASP, Adobe Flex, PL/SQL, Transact SQL, Visual Basic, C#, Oracle, SQL Server, MariaDB, MySql, : Eclipse, STS, NetBeans, JBuilder, Jdeveloper, Visual Age, IntelliJ, Tomcat 5.5, Internet Information server, Nescape Enterprise Server, BEA WebLogic, Oracle Aplication Server, Jetty, JUnit, Subversion, GIT - GITHUB, SSL, firma digital, Gestión Documental, EMC Documentum, Alfresco, Amazon S3, Business Intelligence, OLAP, MDX, ActiveMQ, ....
 
 
