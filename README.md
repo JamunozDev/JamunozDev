@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">@JamunozDev</h1>
 <h3 align="center">Juan Antonio Muñoz González</h3>
-<p><img src="foto_juan_barco.JPG"></p>
+<p align="center"><img width="25%" src="jamunozdev.png"></p>
 Desarrollador de aplicaciones Web con más de 25 años de experiencia en desarrollo de aplicaciones en el sector privado y en distintos ámbitos de la Administración Pública.
 Especializado en el desarrollo de aplicaciones Java, Spring boot y Thymeleaf con seguridad, firma electrónica, certificados digitales y conexiones a APIS externas.
 
